@@ -1,0 +1,136 @@
+{
+  "relationships": {
+    "front": [
+      [
+        1,
+        2
+      ],
+      [],
+      [
+        1
+      ]
+    ],
+    "behind": [
+      [],
+      [
+        0,
+        2
+      ],
+      [
+        0
+      ]
+    ],
+    "right": [
+      [
+        1,
+        2
+      ],
+      [
+        2
+      ],
+      []
+    ],
+    "left": [
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  "directions": {
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ],
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ]
+  },
+  "utterances": [
+    "all red cylinder behind all green cube",
+    "all red cylinder on the left of all green cube"
+  ],
+  "image_filename": "extrinsic_CLEVR_new_000002.png",
+  "image_index": 2,
+  "split": "new",
+  "objects": [
+    {
+      "color": "red",
+      "size": "large",
+      "rotation": 157.71988820606467,
+      "3d_coords": [
+        -2.2429873943328857,
+        -1.1857242584228516,
+        0.699999988079071
+      ],
+      "shape": "cylinder",
+      "material": "metal",
+      "pixel_coords": [
+        92,
+        90,
+        12.193653106689453
+      ]
+    },
+    {
+      "color": "green",
+      "size": "small",
+      "rotation": 304.1541074151624,
+      "3d_coords": [
+        2.025172472000122,
+        -0.4381178617477417,
+        0.3499999940395355
+      ],
+      "shape": "cube",
+      "material": "metal",
+      "pixel_coords": [
+        196,
+        140,
+        10.043712615966797
+      ]
+    },
+    {
+      "color": "green",
+      "size": "small",
+      "rotation": 124.76828318346207,
+      "3d_coords": [
+        1.7956933975219727,
+        0.5128930807113647,
+        0.3499999940395355
+      ],
+      "shape": "cube",
+      "material": "rubber",
+      "pixel_coords": [
+        212,
+        126,
+        10.748346328735352
+      ]
+    }
+  ]
+}

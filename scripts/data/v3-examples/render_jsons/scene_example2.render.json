@@ -1,0 +1,78 @@
+{
+  "spec": {
+    "objects": [
+      {
+        "pos": [
+          -3,
+          -5.0
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          -4,
+          5
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "green",
+        "size": "large"
+      },
+      {
+        "pos": [
+          3,
+          -1.5
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          3,
+          0.5
+        ],
+        "material": "metal",
+        "shape": "cube",
+        "color": "blue",
+        "size": "large"
+      }
+    ]
+  },
+  "directions": {
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ]
+  }
+}

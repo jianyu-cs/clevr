@@ -1,0 +1,1 @@
+../../blender2.79/blender --background --python render_images_some.py -- --num_i 5 --implicature_type=direct --use_gpu 0../../blender2.79/blender --background --python render_images_some.py -- --num_i 5 --implicature_type=direct --use_gpu 0

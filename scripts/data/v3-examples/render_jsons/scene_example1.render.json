@@ -1,0 +1,138 @@
+{
+  "spec": {
+    "objects": [
+      {
+        "pos": [
+          1.3916179371769237,
+          2.2235999649846487
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          1.3976969603022704,
+          2.836368467698591
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          -2.1221468685719302,
+          2.3622714538762466
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          -2.148911010949676,
+          0.7146618653666308
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          -0.06434502290477973,
+          -2.674502475586541
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          0.7516474608859864,
+          0.41236056681919564
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          1.0309677636462071,
+          2.1196048060981134
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          2.915468499847689,
+          1.4383529011743086
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          -0.7936474694224325,
+          -2.1250121341360577
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      },
+      {
+        "pos": [
+          1.8339895025474622,
+          0.9302289398448154
+        ],
+        "material": "metal",
+        "shape": "sphere",
+        "color": "red",
+        "size": "large"
+      }
+    ]
+  },
+  "directions": {
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ]
+  }
+}
